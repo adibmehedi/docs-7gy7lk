@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-ibrzy5.yoursingles.online/sitemap.xml
